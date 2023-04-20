@@ -1,0 +1,8 @@
+.item__select__profile{
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.item__select__profile:hover{
+    color:red
+}
